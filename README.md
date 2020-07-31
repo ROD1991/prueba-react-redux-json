@@ -3,7 +3,7 @@
 
 Clonar App con el comando
 
-git clone aca va la direccion del sitio https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/ROD1991/prueba-react-redux-json
 
 ir con cmd a la direccion de el proyecto luego :
 
